@@ -1,0 +1,8 @@
+D:\C#\OL_TaskThree\OL_TaskThree\bin\Debug\OL_TaskThree.exe.config
+D:\C#\OL_TaskThree\OL_TaskThree\bin\Debug\OL_TaskThree.exe
+D:\C#\OL_TaskThree\OL_TaskThree\bin\Debug\OL_TaskThree.pdb
+D:\C#\OL_TaskThree\OL_TaskThree\obj\Debug\OL_TaskThree.csproj.AssemblyReference.cache
+D:\C#\OL_TaskThree\OL_TaskThree\obj\Debug\OL_TaskThree.csproj.SuggestedBindingRedirects.cache
+D:\C#\OL_TaskThree\OL_TaskThree\obj\Debug\OL_TaskThree.csproj.CoreCompileInputs.cache
+D:\C#\OL_TaskThree\OL_TaskThree\obj\Debug\OL_TaskThree.exe
+D:\C#\OL_TaskThree\OL_TaskThree\obj\Debug\OL_TaskThree.pdb

@@ -1,0 +1,16 @@
+D:\C#\OL_TaskTwo\OL_Task_Two\OL_Task_Two\bin\Debug\OL_Task_Two.exe.config
+D:\C#\OL_TaskTwo\OL_Task_Two\OL_Task_Two\bin\Debug\OL_Task_Two.exe
+D:\C#\OL_TaskTwo\OL_Task_Two\OL_Task_Two\bin\Debug\OL_Task_Two.pdb
+D:\C#\OL_TaskTwo\OL_Task_Two\OL_Task_Two\obj\Debug\OL_Task_Two.csproj.AssemblyReference.cache
+D:\C#\OL_TaskTwo\OL_Task_Two\OL_Task_Two\obj\Debug\OL_Task_Two.csproj.SuggestedBindingRedirects.cache
+D:\C#\OL_TaskTwo\OL_Task_Two\OL_Task_Two\obj\Debug\OL_Task_Two.csproj.CoreCompileInputs.cache
+D:\C#\OL_TaskTwo\OL_Task_Two\OL_Task_Two\obj\Debug\OL_Task_Two.exe
+D:\C#\OL_TaskTwo\OL_Task_Two\OL_Task_Two\obj\Debug\OL_Task_Two.pdb
+D:\C#\OL_Task_Two\OL_Task_Two\bin\Debug\OL_Task_Two.exe.config
+D:\C#\OL_Task_Two\OL_Task_Two\bin\Debug\OL_Task_Two.exe
+D:\C#\OL_Task_Two\OL_Task_Two\bin\Debug\OL_Task_Two.pdb
+D:\C#\OL_Task_Two\OL_Task_Two\obj\Debug\OL_Task_Two.csproj.AssemblyReference.cache
+D:\C#\OL_Task_Two\OL_Task_Two\obj\Debug\OL_Task_Two.csproj.SuggestedBindingRedirects.cache
+D:\C#\OL_Task_Two\OL_Task_Two\obj\Debug\OL_Task_Two.csproj.CoreCompileInputs.cache
+D:\C#\OL_Task_Two\OL_Task_Two\obj\Debug\OL_Task_Two.exe
+D:\C#\OL_Task_Two\OL_Task_Two\obj\Debug\OL_Task_Two.pdb

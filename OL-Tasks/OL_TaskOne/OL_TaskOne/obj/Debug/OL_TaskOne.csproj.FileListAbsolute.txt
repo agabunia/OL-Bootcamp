@@ -1,0 +1,8 @@
+D:\C#\OL_TaskOne\OL_TaskOne\bin\Debug\OL_TaskOne.exe.config
+D:\C#\OL_TaskOne\OL_TaskOne\bin\Debug\OL_TaskOne.exe
+D:\C#\OL_TaskOne\OL_TaskOne\bin\Debug\OL_TaskOne.pdb
+D:\C#\OL_TaskOne\OL_TaskOne\obj\Debug\OL_TaskOne.csproj.AssemblyReference.cache
+D:\C#\OL_TaskOne\OL_TaskOne\obj\Debug\OL_TaskOne.csproj.SuggestedBindingRedirects.cache
+D:\C#\OL_TaskOne\OL_TaskOne\obj\Debug\OL_TaskOne.csproj.CoreCompileInputs.cache
+D:\C#\OL_TaskOne\OL_TaskOne\obj\Debug\OL_TaskOne.exe
+D:\C#\OL_TaskOne\OL_TaskOne\obj\Debug\OL_TaskOne.pdb
